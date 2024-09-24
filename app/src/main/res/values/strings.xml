@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="name_text">SERGIO ANDRES LAGUNA JORDAN</string>
+    <string name="title_text">ING.SISTEMAS</    string>
+    <string name="phone_text">+591 76742300</string>
+    <string name="email_text">slaguna17@gmail.com</string>
+    <string name="github_user_text">slaguna17</string>
+</resources>
